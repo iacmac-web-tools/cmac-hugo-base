@@ -1,2 +1,3 @@
 # cmac-hugo-base
-Base docker image for cmac-hugo
+this image includes:
+- HUGO_VERSION=0.55.6
